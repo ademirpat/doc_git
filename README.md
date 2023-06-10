@@ -26,5 +26,7 @@ git clone <url>: Baixa o projeto do repositório.
 
 git push: Ele envia a alteração para o repositório.
 
+git pull: Ele puxa as alterações do repositório.
+
 Possíveis erros:
 403: apagando as gerenciais, gerenciamento de credenciais.
