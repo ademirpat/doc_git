@@ -9,6 +9,8 @@ git config --global user.name "<seu_nome>"
 git config --global user.email "<seu_email>"
 
 git status: responsável por validar os arquivos modificados dentro do projeto.
+Em vermelho ele mostra os arquivos modificados.
+Em verde mostra os arquivos que foram adicionados pelo "git add".
 
 git add: responsável adiciona o arquivo modificado em uma área segura.
 
