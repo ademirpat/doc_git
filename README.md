@@ -1,5 +1,5 @@
 # Documentaçao git
-Documentação do git para ajuda nos comandos
+Documentação do git para ajuda nos comandos (Digital College)
 
 git init: ele inicia o arquivo "/.git" para controlar a pasta.
 
