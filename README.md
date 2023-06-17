@@ -20,12 +20,14 @@ git init
  git config --global user.name "<*seu_nome*>
 ````
 
+
 + altera o e-mail de usuário
 ````
 git config --global user.email "<*seu_email*>"
 ```` 
 
 > ### 🚀 Comandos básicos:
+> 
 + responsável por validar os arquivos modificados dentro do projeto.
   
 ````
@@ -42,8 +44,11 @@ git status:
 git add:
 ````
 
+
 + Ele é responsável por criar uma nova versão do projeto com as referências do criador.
-````git commit -m "<*texto_da_modificação*>":````
+````
+git commit -m "<*texto_da_modificação*>":
+````
 
 + **git log:** validar os meus comentários e modificações.
 
