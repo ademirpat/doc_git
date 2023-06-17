@@ -6,12 +6,22 @@
 
 > ### ▶️ Comando inicial:
 
-+ **git init:** ele inicia o arquivo "/.git" para controlar a pasta.
+
++ ele inicia o arquivo "/.git" para controlar a pasta.
+````
+git init
+````
+
 
 > ### 🧑‍💻 Configuração do usuário do git:
- + **git config --global user.name "<*seu_nome*>"** : altera o nome de usuário
 
- + **git config --global user.email "<*seu_email*>"** : altera o e-mail de usuário
++ altera o nome de usuário
+````
+ git config --global user.name "<*seu_nome*>
+````
+
+: altera o e-mail de usuário
+ + **git config --global user.email "<*seu_email*>"** 
 
 > ### 🚀 Comandos básicos:
  + **git status:** responsável por validar os arquivos modificados dentro do projeto.
