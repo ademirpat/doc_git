@@ -50,19 +50,41 @@ git add:
 git commit -m "<*texto_da_modificação*>":
 ````
 
-+ **git log:** validar os meus comentários e modificações.
++ validar os meus comentários e modificações.
+````
+git log:
+```` 
 
-+ **git checkout -b <*nome_da_branch*>:** Cria uma nova branch ou ramo
++ Cria uma nova branch ou ramo
+````
+git checkout -b <*nome_da_branch*>
+```` 
 
-+ **git checkout <*nome_da_branch*>:** Muda de branch/ramo
++ Muda de branch/ramo
+````
+git checkout <*nome_da_branch*>
+```` 
 
-+ **git merge <*nome_da_branch*>:** Ele adicona a branch atual o conteúdo de outra branch.
++ Ele adicona a branch atual o conteúdo de outra branch.
+````
+git merge <*nome_da_branch*>
+```` 
 
-+ **git clone <*url*>:** Baixa o projeto do repositório.
++ Baixa o projeto do repositório.
+````
+git clone <*url*>
+```` 
 
-+ **git push:** Ele envia a alteração para o repositório.
++ Ele envia a alteração para o repositório.
+````
+git push
+```` 
 
-+ **git pull:** Ele puxa as alterações do repositório.
++ Ele puxa as alterações do repositório.
+````
+git pull
+````
 
 > ## ⚠️ *Possíveis erros:*
+
 + **403:** apagando as gerenciais, gerenciamento de credenciais.
