@@ -1,7 +1,7 @@
 # Documentaçao git
 ## 💻 Relação de comandos básicos
 
-> ##   ⚙️ Comandos e sua funções
+> ## Comandos e sua funções
 
 
 > ###  Comando inicial:
