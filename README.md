@@ -4,7 +4,7 @@
 > ##   ⚙️ Comandos e sua funções
 
 
-> ### ▶️ Comando inicial:
+> ###  Comando inicial:
 
 
 + ele inicia o arquivo "/.git" para controlar a pasta.
@@ -13,7 +13,7 @@ git init
 ````
 
 
-> ### 🧑‍💻 Configuração do usuário do git:
+> ###  Configuração do usuário do git:
 
 + altera o nome de usuário
 ````
@@ -26,7 +26,7 @@ git init
 git config --global user.email "<*seu_email*>"
 ```` 
 
-> ### 🚀 Comandos básicos:
+> ### Comandos básicos:
 > 
 + responsável por validar os arquivos modificados dentro do projeto.
   
