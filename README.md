@@ -1,5 +1,5 @@
 # Documentaçao git
-## 💻 Relação de comandos básicos
+## Relação de comandos básicos
 
 > ###  Comando inicial:
 
@@ -81,6 +81,8 @@ git push
 ````
 git pull
 ````
+
+
 
 > ## ⚠️ *Possíveis erros:*
 
