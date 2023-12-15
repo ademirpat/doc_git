@@ -82,6 +82,15 @@ git push
 git pull
 ````
 
++ Altera o histórico de commits exisententes, deve ser usado para desfazer alterações em um branch privado.
+````
+git reset
+````
+
++ Altera o histórico de commits exisententes, deve ser usado para desfazer alterações em um branch público.
+````
+git pull
+````
 
 
 > ## ⚠️ *Possíveis erros:*
